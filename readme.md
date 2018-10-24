@@ -61,14 +61,14 @@ Recording my resolution of leetcode (python)
 
 ## Weekly Contest
 #### Weekly Contest83
-[consecutiveNumbersSum](https://github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest83/consecutiveNumbersSum.py)<br>
-[largeGroupPositions](https://github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest83/largeGroupPositions.py)<br>
-[maskPII](https://github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest83/maskPII.py)<br>
-[uniqueLetterString](https://github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest83/uniqueLetterString.py)<br>
+[consecutiveNumbersSum](github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest83/consecutiveNumbersSum.py)<br>
+[largeGroupPositions](github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest83/largeGroupPositions.py)<br>
+[maskPII](github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest83/maskPII.py)<br>
+[uniqueLetterString](github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest83/uniqueLetterString.py)<br>
 #### Weekly Contest102
-[sortArrayByParity](https://github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest102/sortArrayByParity.py)<br>
-[sumSubarrayMins](https://github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest102/sumSubarrayMins.py)<br>
-[totalFruit](https://github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest102/totalFruit.py)<br>
+[sortArrayByParity](github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest102/sortArrayByParity.py)<br>
+[sumSubarrayMins](github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest102/sumSubarrayMins.py)<br>
+[totalFruit](github.com/crazyLayne/LeetCode-China-/blob/master/leetcodeContest/WeeklyContest102/totalFruit.py)<br>
 []()<br>
 #### Weekly Contest103
 []()<br>
