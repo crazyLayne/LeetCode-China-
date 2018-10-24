@@ -61,14 +61,14 @@ Recording my resolution of leetcode (python)
 
 ## Weekly Contest
 #### Weekly Contest83
-[consecutiveNumbersSum](LeetCode-China-/leetcodeContest/WeeklyContest83/consecutiveNumbersSum.py)<br>
-[largeGroupPositions](LeetCode-China-/leetcodeContest/WeeklyContest83/largeGroupPositions.py)<br>
-[maskPII](LeetCode-China-/leetcodeContest/WeeklyContest83/maskPII.py)<br>
-[uniqueLetterString](LeetCode-China-/leetcodeContest/WeeklyContest83/uniqueLetterString.py)<br>
+[consecutiveNumbersSum](https://github.com/crazyLayne/LeetCode-China-/leetcodeContest/WeeklyContest83/consecutiveNumbersSum.py)<br>
+[largeGroupPositions](https://github.com/crazyLayne/LeetCode-China-/leetcodeContest/WeeklyContest83/largeGroupPositions.py)<br>
+[maskPII](https://github.com/crazyLayne/LeetCode-China-/leetcodeContest/WeeklyContest83/maskPII.py)<br>
+[uniqueLetterString](https://github.com/crazyLayne/LeetCode-China-/leetcodeContest/WeeklyContest83/uniqueLetterString.py)<br>
 #### Weekly Contest102
-[sortArrayByParity](LeetCode-China-/leetcodeContest/WeeklyContest102/sortArrayByParity.py)<br>
-[sumSubarrayMins](LeetCode-China-/leetcodeContest/WeeklyContest102/sumSubarrayMins.py)<br>
-[totalFruit](LeetCode-China-/leetcodeContest/WeeklyContest102/totalFruit.py)<br>
+[sortArrayByParity](https://github.com/crazyLayne/LeetCode-China-/leetcodeContest/WeeklyContest102/sortArrayByParity.py)<br>
+[sumSubarrayMins](https://github.com/crazyLayne/LeetCode-China-/leetcodeContest/WeeklyContest102/sumSubarrayMins.py)<br>
+[totalFruit](https://github.com/crazyLayne/LeetCode-China-/leetcodeContest/WeeklyContest102/totalFruit.py)<br>
 []()<br>
 #### Weekly Contest103
 []()<br>
